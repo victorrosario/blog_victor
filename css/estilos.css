@@ -1,0 +1,63 @@
+body{
+    background-image: url(../img/school.png);
+}
+
+.navbar{
+    background-color:#1d1414e0;
+    
+}
+#navbar li a:link,#navbar li a:visited{
+    color: #f5175d !important;
+}
+
+#navbar li a:hover,#navbar li a:active{
+    color: #e6f542 !important;
+}
+
+
+
+
+.navbar-brand:link, .navbar-brand:visited{
+    color:#f5175d !important;
+
+
+}
+
+.navbar-brand:hover, .navbar-brand:active{
+    color:#510a20 !important;
+}
+
+
+.jumbotron{
+    background-color:#510a20;
+    color: beige;
+    border-radius: 200px !important;
+    text-align: center !important; 
+}
+
+.panel{
+    background-color: #947d9a !important;
+    border-radius: 20px;
+}
+
+
+
+.panel-heading{
+    background-color: #510a20 !important;
+    color: beige !important;
+    border-radius: 10px;
+}
+
+button{
+    background-color: #76445f !important;
+    color: #510a20 !important;
+    text-shadow: 0 0 30px rgb(40, 143, 80) !important;
+    box-shadow: 0 0 20px rgb(127, 28, 173);
+}
+
+a{
+    color: #f5175d;
+    text-decoration: none;
+    text-shadow: 0 0 30px rgb(182, 17, 17) !important;
+
+}
